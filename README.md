@@ -5,9 +5,6 @@
 # 👋 Hey, I'm Djavan Teixeira Lopes
 
 
-
-## Estatísticas do GitHub
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=djavantl&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djavantl&layout=compact&theme=tokyonight" height="160" />
@@ -26,23 +23,9 @@
 
 ## 🛠 Tecnologias e Ferramentas
 
-<img align="right" width="200" src="https://images.unsplash.com/photo-1517430816045-df4b7de77ae6?auto=format&fit=crop&w=400&q=80" alt="notebook technology" />
-
-**Linguagens de Programação**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,django,php,java,js,html,css,mysql,postgresql,git,linux&theme=light" />
 </div>
-
-**Banco de Dados**  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</div>
-
-**Ferramentas & Plataformas**  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux" />
-</div>
-
 
 
 

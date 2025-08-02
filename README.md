@@ -20,16 +20,33 @@ Gosto de transformar ideias em código e, sempre que posso, trabalho em projetos
 
 ## 🛠 Tecnologias e Ferramentas
 
-📌 Programming Languages
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,js&theme=light" /> </div>
-📌 Front-end
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css&theme=light" /> </div>
-📌 Databases
-<div align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" /> </div>
-📌 Tools & Others
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,linux&theme=light" /> </div>
-📌 Currently Studying
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,django,php&theme=light" /> </div>
+<div align="center"> <table> <tr> <td width="60%" valign="top"> <h3>📌 Programming Languages</h3> <div align="center"> <img src="https://skillicons.dev/icons?i=java,js&theme=light" /> </div>
+<h3>📌 Front-end</h3>
+    <div align="center">  
+      <img src="https://skillicons.dev/icons?i=html,css&theme=light" />  
+    </div>  
+
+    <h3>📌 Databases</h3>
+    <div align="center">  
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" />  
+    </div>  
+
+    <h3>📌 Tools & Others</h3>
+    <div align="center">  
+      <img src="https://skillicons.dev/icons?i=git,linux&theme=light" />  
+    </div>  
+
+    <h3>📌 Currently Studying</h3>
+    <div align="center">  
+      <img src="https://skillicons.dev/icons?i=python,django,php&theme=light" />  
+    </div>
+  </td>
+  <td width="40%" align="center">
+    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Coding Workspace" />
+    <em><p style="margin-top: 8px; font-size: 12px; color: #555;">Exploring new technologies daily</p></em>
+  </td>
+</tr>
+</table> </div>
 
 ---
 

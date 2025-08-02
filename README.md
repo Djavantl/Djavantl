@@ -4,38 +4,49 @@
 
 # 👋 Hey, I'm Djavan Teixeira Lopes
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IF Baiano** e tenho interesse em criar soluções que sejam úteis e funcionais de verdade.  
-Gosto de transformar ideias em código e, sempre que posso, trabalho em projetos que me desafiem a aprender algo novo.
 
----
 
-## 📌 Sobre mim
-
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IF Baiano  
-- 💡 Curioso por **programação**, **boas práticas** e **resolução de problemas**  
-- 🌱 Atualmente explorando **web development** e **programação orientada a objetos**  
-- 🛠 Sempre buscando melhorar minhas habilidades com projetos reais
-
----
-
-## 🛠 Tecnologias e Ferramentas
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,php,java,js,html,css,mysql,postgresql,git,linux&theme=light" />
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=djavantl&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djavantl&layout=compact&theme=tokyonight" height="160" />
 </div>
 
----
 
-## 🌐 Onde me encontrar
+
+## Sobre mim
+
+- Cursando **Análise e Desenvolvimento de Sistemas** no IF Baiano  
+- Curioso por **programação**, **boas práticas** e **resolução de problemas**  
+- Atualmente explorando **web development** e **programação orientada a objetos**  
+- Sempre buscando melhorar minhas habilidades com projetos reais
+
+
+
+## 🛠 Tecnologias e Ferramentas
+
+<img align="right" width="200" src="https://images.unsplash.com/photo-1517430816045-df4b7de77ae6?auto=format&fit=crop&w=400&q=80" alt="notebook technology" />
+
+**Linguagens de Programação**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</div>
+
+**Banco de Dados**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</div>
+
+**Ferramentas & Plataformas**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux" />
+</div>
+
+
+
+
+## Onde me encontrar
 
 <div align="center">
   <a href="mailto:djavanlopesteixeira@gmail.com">
@@ -49,7 +60,7 @@ Gosto de transformar ideias em código e, sempre que posso, trabalho em projetos
   </a>
 </div>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=djavantl&label=Profile%20views&color=0e75b6&style=flat" alt="djavantl" />

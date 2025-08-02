@@ -2,45 +2,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=header" />
 </div>
 
-# 👋 Hi there, I'm Djavan Teixeira Lopes | Software Developer & Student
+# 👋 Hey, I'm Djavan Teixeira Lopes
 
-I'm Djavan Teixeira Lopes, a student of **Systems Analysis and Development** at **IF Baiano**, passionate about building practical and efficient software solutions.  
-While I'm still growing in the field, I’ve been actively working on personal and academic projects that reflect real-world challenges.
-
----
-
-## 📌 About Me
-
-- Studying Systems Analysis and Development at **IF Baiano**
-- Passionate about **programming, clean code**, and **problem-solving**
-- Focused on **web development** and **object-oriented programming**
-- Always learning and building **real-world inspired projects**
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IF Baiano** e tenho interesse em criar soluções que sejam úteis e funcionais de verdade.  
+Gosto de transformar ideias em código e, sempre que posso, trabalho em projetos que me desafiem a aprender algo novo.
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Sobre mim
 
-Here are some of my highlighted projects:  
-
-### 📂 [AEE+](https://github.com/djavantl/aee-plus)  
-A system to support **Specialized Educational Assistance** with document version control and Agile methodology (**Extreme Programming - XP**).  
-**Tech stack:** PHP, HTML, CSS, JS, MySQL  
-![AEE+ Screenshot](https://via.placeholder.com/800x400.png?text=AEE+%20System)
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IF Baiano  
+- 💡 Curioso por **programação**, **boas práticas** e **resolução de problemas**  
+- 🌱 Atualmente explorando **web development** e **programação orientada a objetos**  
+- 🛠 Sempre buscando melhorar minhas habilidades com projetos reais
 
 ---
 
-### 📂 [Task Manager](https://github.com/djavantl/task-manager)  
-A simple **task management system** built to practice **CRUD operations** and **MVC pattern**.  
-**Tech stack:** Java, JDBC, MySQL  
-![Task Manager Screenshot](https://via.placeholder.com/800x400.png?text=Task+Manager)
-
----
-
-*(Replace the links and images with your real projects when you upload them!)*
-
----
-
-## 🛠️ Technologies & Tools
+## 🛠 Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,php,java,js,html,css,mysql,postgresql,git,linux&theme=light" />
@@ -48,7 +26,7 @@ A simple **task management system** built to practice **CRUD operations** and **
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=djavantl&show_icons=true&theme=tokyonight" height="160" />
@@ -57,7 +35,7 @@ A simple **task management system** built to practice **CRUD operations** and **
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Onde me encontrar
 
 <div align="center">
   <a href="mailto:djavanlopesteixeira@gmail.com">

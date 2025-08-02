@@ -18,6 +18,28 @@ While I'm still growing in the field, I’ve been actively working on personal a
 
 ---
 
+## 🚀 Featured Projects
+
+Here are some of my highlighted projects:  
+
+### 📂 [AEE+](https://github.com/djavantl/aee-plus)  
+A system to support **Specialized Educational Assistance** with document version control and Agile methodology (**Extreme Programming - XP**).  
+**Tech stack:** PHP, HTML, CSS, JS, MySQL  
+![AEE+ Screenshot](https://via.placeholder.com/800x400.png?text=AEE+%20System)
+
+---
+
+### 📂 [Task Manager](https://github.com/djavantl/task-manager)  
+A simple **task management system** built to practice **CRUD operations** and **MVC pattern**.  
+**Tech stack:** Java, JDBC, MySQL  
+![Task Manager Screenshot](https://via.placeholder.com/800x400.png?text=Task+Manager)
+
+---
+
+*(Replace the links and images with your real projects when you upload them!)*
+
+---
+
 ## 🛠️ Technologies & Tools
 
 <div align="center">

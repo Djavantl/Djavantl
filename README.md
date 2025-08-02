@@ -1,20 +1,60 @@
-<h1 align="center">Olá 👋, sou Djavan Teixeira Lopes</h1>
-<h3 align="center">🌱 Sempre aprendendo, sempre evoluindo — um commit de cada vez</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=header" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djavantl&label=Profile%20views&color=0e75b6&style=flat" alt="djavantl" /> </p>
+# 👋 Hi there, I'm Djavan Teixeira Lopes | Software Developer & Student
 
-- 🌱 Atualmente estou aprendendo **Python, Django, PHP, JavaScript e Node.js**
+I'm Djavan Teixeira Lopes, a student of **Systems Analysis and Development** at **IF Baiano**, passionate about building practical and efficient software solutions.  
+While I'm still growing in the field, I’ve been actively working on personal and academic projects that reflect real-world challenges.
 
-- 💬 Pergunte-me sobre **Desenvolvimento web, programação orientada a objetos e metodologias ágeis**
+---
 
-- 📫 Como entrar em contato comigo **djavanlopesteixeira@gmail.com**
+## 📌 About Me
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://instagram.com/djavantl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="djavantl" height="30" width="40" /></a>
+- Studying Systems Analysis and Development at **IF Baiano**
+- Passionate about **programming, clean code**, and **problem-solving**
+- Focused on **web development** and **object-oriented programming**
+- Always learning and building **real-world inspired projects**
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,php,java,js,html,css,mysql,postgresql,git,linux&theme=light" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djavantl&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djavantl&layout=compact&theme=tokyonight" height="160" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="mailto:djavanlopesteixeira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/djavantl" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/djavantl" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=djavantl&label=Profile%20views&color=0e75b6&style=flat" alt="djavantl" />
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" altura="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=djavantl&show_icons=true&locale=en" alt="djavantl" /></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer" />
+</div>

@@ -21,7 +21,7 @@
 
 
 
-## 🛠 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,php,js,html,css,java,mysql,postgresql,git&theme=light" />

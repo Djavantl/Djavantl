@@ -20,9 +20,16 @@ Gosto de transformar ideias em código e, sempre que posso, trabalho em projetos
 
 ## 🛠 Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,php,java,js,html,css,mysql,postgresql,git,linux&theme=light" />
-</div>
+📌 Programming Languages
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,js&theme=light" /> </div>
+📌 Front-end
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css&theme=light" /> </div>
+📌 Databases
+<div align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" /> </div>
+📌 Tools & Others
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,linux&theme=light" /> </div>
+📌 Currently Studying
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,django,php&theme=light" /> </div>
 
 ---
 
